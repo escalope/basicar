@@ -14,7 +14,7 @@
   <description>A GPS based gymkana sample</description>
   <dependencies>
     <dependency>
-      <groupId>net.sf.mydevel</groupId>
+      <groupId>net.sf.basicar</groupId>
       <artifactId>zxingscanner</artifactId>
       <version>1.0.0-SNAPSHOT</version>
     </dependency>
