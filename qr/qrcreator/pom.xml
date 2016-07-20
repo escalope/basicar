@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <parent>
+        <groupId>net.sf.basicar</groupId>
+        <artifactId>qr</artifactId>
+        <version>1.0.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>net.sf.mydevel</groupId>
+    <artifactId>qrcreator</artifactId>
+    <packaging>jar</packaging>
+    <name>QR creator</name>
+    <description>A QR sample app for creating QRs</description>
+    <dependencies>
+      <dependency>
+      <groupId>com.google.zxing</groupId>
+      <artifactId>core</artifactId>
+    <version>3.2.1</version>
+    </dependency>
+    <dependency>
+      <groupId>com.google.zxing</groupId>
+      <artifactId>android-core</artifactId>
+   <version>3.2.1</version>
+    </dependency>
+    </dependencies>
+
+</project>
